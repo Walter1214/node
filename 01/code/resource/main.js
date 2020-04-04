@@ -1,0 +1,1 @@
+window.aler('hello node.js')
